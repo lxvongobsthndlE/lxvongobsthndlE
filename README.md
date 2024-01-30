@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lxvongobsthndlE
-- 🏫 I am a computer science (media- and communication informatics) student @ReutlingenUniversity
-- 👀 I’m interested in learning new stuff. 
-- 🌱 I’m currently working/learning with Java (Spring, EAP)
-- 👾 in my free time I develop my own Discord Bot [Shard](https://github.com/lxvongobsthndlE/shard_discord_bot) with NodeJS
+- 🏫 I am a computer science (media- and communication informatics) alumni @ReutlingenUniversity.
+- 👀 I’m always interested in learning new stuff. 
+- 🌱 I’m currently mainly working with Java (SpringBoot) and JavaScript.
+- 👾 in my free time I like to develop my own little projects like Discord Bots and more.
 - 📫 How to reach me: Join my [Discord Server](https://discord.gg/K4nHrhj) if you wish to talk.
 
 <!---
